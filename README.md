@@ -1,1 +1,1 @@
-# Jobbster-Admin
+# Jobbster: An online job portal
